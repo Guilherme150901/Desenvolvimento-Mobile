@@ -27,7 +27,7 @@ async function calcularValorTotal(userCarrinho) {
   console.log(`\nVALOR TOTAL DO CARRINHO É R$: ${resultado.toFixed(2)}`);
 }
 
-//4- remover um item - diminuir um item
+//4- remover um item - diminuir um item ✅
 async function removerItem(userCarrinho, item) {
   //4.1- encontrar o indice(index) do item
   const indexFound = userCarrinho.findIndex((p) => p.nome === item.nome);
@@ -64,3 +64,4 @@ export {
   mostrarCarrinho,
   removerItem,
 };
+
