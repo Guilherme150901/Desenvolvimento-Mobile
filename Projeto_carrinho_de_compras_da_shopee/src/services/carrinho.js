@@ -60,8 +60,8 @@ export {
   adicionarItem,
   calcularValorTotal,
   deletarItem,
-  removerQuantidadeItem,
   mostrarCarrinho,
   removerItem,
 };
+
 
