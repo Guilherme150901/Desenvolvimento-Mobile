@@ -69,5 +69,3 @@ Durante o desenvolvimento deste projeto, foram praticados conceitos como:
 - Implementar lógica para remoção parcial de itens
 - Garantir que as funções assíncronas fossem chamadas corretamente
 - Simular um fluxo realista de compras com múltiplas operações
-
-## 📁 Estrutura de Arquivos
